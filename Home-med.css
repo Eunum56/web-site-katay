@@ -1,0 +1,1133 @@
+/*Large Laptop*/
+@media (max-width: 1440px) {
+  .latest-head h1 {
+    font-size: 55px;
+  }
+  .follow-head h1 {
+    font-size: 50px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 40px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 300px;
+  }
+  .latestphoto {
+    height: 250px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 30px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 25px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 20px;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 30%;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1228px) {
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 250px;
+  }
+}
+
+/*Laptop*/
+@media (max-width: 1024px) {
+  .latest-head h1 {
+    font-size: 45px;
+  }
+  .follow-head h1 {
+    font-size: 35px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 30px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 225px;
+  }
+  .latestphoto {
+    height: 175px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 25px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 20px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 25%;
+  }
+}
+
+@media (max-width: 905px) {
+  .latest-head h1 {
+    font-size: 40px;
+  }
+  .follow-head h1 {
+    font-size: 30px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 28px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 180px;
+  }
+  .latestphoto {
+    height: 175px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 25px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 20px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 25%;
+  }
+}
+
+/*tab*/
+@media (max-width: 768px) {
+  .latest-head h1 {
+    font-size: 40px;
+  }
+  .follow-head h1 {
+    font-size: 40px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 30px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 200px;
+  }
+  .latestphoto {
+    height: 175px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 20px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 15px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 19px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 30%;
+  }
+
+  /*Follow Container*/
+  .latest-posts {
+    /* padding: 20px; */
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .latest-container {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+  .follow-container {
+    width: 90%;
+  }
+  .follow-head {
+    display: block;
+  }
+  .socials {
+    justify-content: space-evenly;
+    flex-direction: row;
+  }
+}
+
+/*Mobile L*/
+@media (max-width: 426px) {
+  .latest-head h1 {
+    font-size: 30px;
+  }
+  .follow-head h1 {
+    font-size: 30px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 27px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 180px;
+  }
+  .latestphoto {
+    height: 170px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 20px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 15px;
+  }
+  .socials a {
+    height: 100px;
+    width: 100px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 13px;
+    text-align: justify;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 60%;
+  }
+  .box1content a,
+  .box2content a,
+  .box3content a,
+  .box4content a,
+  .box5content a,
+  .box6content a,
+  .box7content a,
+  .box8content a,
+  .box9content a,
+  .box10content a,
+  .box11content a {
+    height: 20px;
+    width: 80px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 448px) {
+  .latest-head h1 {
+    font-size: 28px;
+  }
+  .follow-head h1 {
+    font-size: 28px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 25px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 160px;
+  }
+  .latestphoto {
+    height: 140px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 18px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 14px;
+  }
+  .box1content a,
+  .box2content a,
+  .box3content a,
+  .box4content a,
+  .box5content a,
+  .box6content a,
+  .box7content a,
+  .box8content a,
+  .box9content a,
+  .box10content a,
+  .box11content a {
+    height: 18px;
+    width: 75px;
+    font-size: 12px;
+  }
+  .socials a {
+    height: 80px;
+    width: 80px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 13px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 12px;
+    text-align: justify;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 60%;
+  }
+}
+
+@media (max-width: 376px) {
+  .latest-head h1 {
+    font-size: 23px;
+  }
+  .follow-head h1 {
+    font-size: 23px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 22px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 145px;
+  }
+  .latestphoto {
+    height: 130px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 17px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 14px;
+    font-weight: 500%;
+  }
+  .box1content a,
+  .box2content a,
+  .box3content a,
+  .box4content a,
+  .box5content a,
+  .box6content a,
+  .box7content a,
+  .box8content a,
+  .box9content a,
+  .box10content a,
+  .box11content a {
+    height: 18px;
+    width: 60px;
+    font-size: 11px;
+  }
+  .socials a {
+    height: 90px;
+    width: 90px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 14px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 12px;
+    text-align: justify;
+    font-weight: 500%;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 60%;
+  }
+}
+
+@media (max-width: 325px) {
+  .latest-head h1 {
+    font-size: 22px;
+  }
+  .follow-head h1 {
+    font-size: 22px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 20px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 120px;
+  }
+  .latestphoto {
+    height: 100px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 13px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 12px;
+    font-weight: 500%;
+  }
+  .box1content,
+  .box2content,
+  .box3content,
+  .box4content,
+  .box5content,
+  .box6content,
+  .box7content,
+  .box8content,
+  .box9content,
+  .box10content,
+  .box11content,
+  .box12 {
+    padding: 10px;
+  }
+  .box1content a,
+  .box2content a,
+  .box3content a,
+  .box4content a,
+  .box5content a,
+  .box6content a,
+  .box7content a,
+  .box8content a,
+  .box9content a,
+  .box10content a,
+  .box11content a {
+    height: 15px;
+    width: 50px;
+    font-size: 10px;
+    padding: 7px;
+  }
+  .pagination button {
+    height: 35px;
+    width: 33px;
+    padding: 8px 13px;
+  }
+
+  .socials a {
+    height: 80px;
+    width: 80px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 13px;
+    text-align: justify;
+    font-weight: 500%;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 70%;
+  }
+}
+
+@media (max-width: 304px) {
+  .latest-head h1 {
+    font-size: 18px;
+  }
+  .follow-head h1 {
+    font-size: 15px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 15px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 120px;
+  }
+  .latestphoto {
+    height: 130px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 13px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 8px;
+  }
+  .socials a {
+    height: 70px;
+    width: 70px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 13px;
+    text-align: justify;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 50%;
+  }
+}
+
+@media (max-width: 244px) {
+  .latest-head h1 {
+    font-size: 18px;
+  }
+  .follow-head h1 {
+    font-size: 15px;
+  }
+  .govt-head h1,
+  .inte-head h1,
+  .work-head h1 {
+    font-size: 15px;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5,
+  .box6,
+  .box7,
+  .box8 {
+    width: 100px;
+  }
+  .latestphoto {
+    height: 130px;
+  }
+  .box1content h2,
+  .box2content h2,
+  .box3content h2,
+  .box4content h2,
+  .box5content h2,
+  .box6content h2,
+  .box7content h2,
+  .box8content h2 {
+    font-size: 13px;
+  }
+  .box1content p,
+  .box2content p,
+  .box3content p,
+  .box4content p,
+  .box5content p,
+  .box6content p,
+  .box7content p,
+  .box8content p {
+    font-size: 8px;
+  }
+  .socials a {
+    height: 70px;
+    width: 70px;
+  }
+  .boxgovt1-ih h2,
+  .boxgovt2-ih h2,
+  .boxgovt3-ih h2,
+  .boxgovt4-ih h2,
+  .boxgovt5-ih h2,
+  .boxinte1-ih h2,
+  .boxinte2-ih h2,
+  .boxinte3-ih h2,
+  .boxinte4-ih h2,
+  .boxinte5-ih h2,
+  .boxwork1-ih h2,
+  .boxwork2-ih h2,
+  .boxwork3-ih h2,
+  .boxwork4-ih h2,
+  .boxwork5-ih h2 {
+    font-size: 15px;
+  }
+  .boxgovt1-clickable p,
+  .boxgovt2-clickable p,
+  .boxgovt3-clickable p,
+  .boxgovt4-clickable p,
+  .boxgovt5-clickable p,
+  .boxinte1-clickable p,
+  .boxinte2-clickable p,
+  .boxinte3-clickable p,
+  .boxinte4-clickable p,
+  .boxinte5-clickable p,
+  .boxwork1-clickable p,
+  .boxwork2-clickable p,
+  .boxwork3-clickable p,
+  .boxwork4-clickable p,
+  .boxwork5-clickable p {
+    font-size: 13px;
+    text-align: justify;
+  }
+  .boxgovt1-clickable,
+  .boxgovt2-clickable,
+  .boxgovt3-clickable,
+  .boxgovt4-clickable,
+  .boxgovt5-clickable,
+  .boxinte1-clickable,
+  .boxinte2-clickable,
+  .boxinte3-clickable,
+  .boxinte4-clickable,
+  .boxinte5-clickable,
+  .boxwork1-clickable,
+  .boxwork2-clickable,
+  .boxwork3-clickable,
+  .boxwork4-clickable,
+  .boxwork5-clickable,
+  .seeall-govt,
+  .seeall-inte,
+  .seeall-work {
+    width: 50%;
+  }
+}
